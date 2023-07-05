@@ -4,7 +4,7 @@
 
 [https://newsapi.org/](url)
 
-**MADE by: [Debajyoti Basak](https://www.linkedin.com/in/debajyoti-basak-698981119 "LinkedIn Profile") (d.basak.db@gmail.com)**
+
 
 **Features:**
 - Beautiful UI with Animations made with Material Design Guidelines by Google.
@@ -28,11 +28,7 @@
 - Working with UI libraries like Material Drawer by Mike Penz.
 - Saving Orientation changes with savedInstance.
 
-**Libraries used in this project:**
-- **[MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)**
-- **[Retrofit2](https://github.com/square/retrofit)**
-- **[OkHTTP3](https://github.com/square/okhttp)**
-- **[Glide](https://github.com/bumptech/glide)**
+
 
 **It a fully Open Source project so go ahead and fork it.**
 
